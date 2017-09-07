@@ -22,7 +22,6 @@ GameObject:
   - component: {fileID: 33296735624359084}
   - component: {fileID: 65010274733700426}
   - component: {fileID: 23295367641358662}
-  - component: {fileID: 114481888937777572}
   m_Layer: 0
   m_Name: Seolhyun Rotating Cube
   m_TagString: Untagged
@@ -94,15 +93,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &114481888937777572
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1366997958269760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2437a1b299294321980d3ac64f577bc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  myRotation: {x: 115, y: 5, z: 57}
